@@ -62,13 +62,21 @@ Sistema web completo desenvolvido em Django utilizando Class-Based Views (CBV) p
 ## 📁 Estrutura do Projeto
 catalogo_filmes/
 ├── catalogo_filmes/ # Configurações do projeto
+
 │ ├── init.py
+
 │ ├── settings.py # Configurações Django
+
 │ ├── urls.py # URLs principais
+
 │ └── wsgi.py
+
 ├── filmes/ # Aplicação principal
+
 │ ├── migrations/ # Migrações do banco
+
 │ ├── templates/filmes/ # Templates HTML
+
 │ │ ├── base.html
 │ │ ├── listar.html
 │ │ ├── detalhe.html
