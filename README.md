@@ -78,22 +78,39 @@ catalogo_filmes/
 │ ├── templates/filmes/ # Templates HTML
 
 │ │ ├── base.html
+
 │ │ ├── listar.html
+
 │ │ ├── detalhe.html
+
 │ │ ├── form.html
+
 │ │ └── confirm_delete.html
+
 │ ├── init.py
+
 │ ├── admin.py # Configuração admin
+
 │ ├── apps.py
+
 │ ├── models.py # Model Filme
+
 │ ├── tests.py
+
 │ ├── urls.py # URLs do app
+
 │ └── views.py # Class-Based Views
+
 ├── media/ # Arquivos uploadados
+
 │ └── capas_filmes/ # Capas dos filmes
+
 ├── static/ # Arquivos estáticos
+
 ├── manage.py
+
 ├── requirements.txt
+
 └── README.md
 
 
