@@ -8,16 +8,8 @@ Sistema web completo desenvolvido em Django utilizando Class-Based Views (CBV) p
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Estrutura do Projeto](#-estrutura-do-projeto)
 - [Pré-requisitos](#-pré-requisitos)
-- [Instalação e Configuração](#-instalação-e-configuração)
-- [Rotas e URLs](#-rotas-e-urls)
-- [Models e Banco de Dados](#-models-e-banco-de-dados)
-- [Class-Based Views](#-class-based-views)
-- [Templates](#-templates)
-- [Upload de Imagens](#-upload-de-imagens)
-- [Executando o Projeto](#-executando-o-projeto)
-- [Capturas de Tela](#-capturas-de-tela)
-- [Contribuição](#-contribuição)
-- [Licença](#-licença)
+- [Como executar](#-Como-Executar)
+
 
 ## 🚀 Funcionalidades
 
